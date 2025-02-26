@@ -5,7 +5,7 @@ seoDescription: "Explore Dawid Kowalski's career transition from civil service t
 datePublished: Wed Feb 26 2025 02:51:03 GMT+0000 (Coordinated Universal Time)
 cuid: cm7lbjjaz000209l4ceichng9
 slug: my-journey-transitioning-from-civil-service-through-translation-interpreting-esl-teaching-and-eu-tendering-research-to-technical-writing
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1740484074719/6da74fb1-613f-435b-b180-0f1e9e693881.png
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/npxXWgQ33ZQ/upload/8ecabf840c27399d72fd4f6170b47865.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1740538217916/55286e36-07b5-4c06-ab39-2a7200874332.jpeg
 tags: technical-writing-1
 
